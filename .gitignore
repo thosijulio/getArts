@@ -2,5 +2,4 @@
 .env
 src/data
 __pycache__/
-dezoomify-rs.exe
 paintings
